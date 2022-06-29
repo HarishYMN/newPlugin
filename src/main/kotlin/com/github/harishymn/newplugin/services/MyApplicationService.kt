@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.harishymn.newplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.harishymn.newplugin.MyBundle
 
 class MyApplicationService {
 
